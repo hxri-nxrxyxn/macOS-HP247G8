@@ -1,3 +1,4 @@
+```
 ─ CPU
   └── AMD Athlon PRO 3045B with Radeon Graphics
       ├── SSE: SSE4A
@@ -48,4 +49,4 @@
       ├── Type: Non-Volatile Memory Express (NVMe)
       ├── Connector: PCIe
       └── Location: Internal
-
+```
