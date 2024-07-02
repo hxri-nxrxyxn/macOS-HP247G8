@@ -1,3 +1,6 @@
+
+![mac-info](https://github.com/hxri-nxrxyxn/macOS-HP247G8/assets/97329430/6e7d8e06-7c45-4501-b81f-15eb299ff732)
+
 ```
 ─ CPU
   └── AMD Athlon PRO 3045B with Radeon Graphics
